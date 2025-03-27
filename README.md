@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Olá! Eu sou a Isabela  
 
-<!--
-**IsabeladeLima/isabeladelima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 *Sobre mim:*  
+- Atualmente, estou cursando *Análise e Desenvolvimento de Sistemas* na *FATEC de Americana* (2º semestre).  
+- Possuo formação superior incompleta em *Psicologia*, mas me encontrei na área de tecnologia.  
 
-Here are some ideas to get you started:
+💻 *Área de tecnologia:*     
+- Até o momento, possuo experiência acadêmica com *Excel, VBA, e linguagem C*.  
+- Atualmente, estou aprimorando meus conhecimentos de *lógica de programação com a linguagem C*.  
+- Busco sempre novos aprendizados e desafios na área.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 *Idiomas:*  
+- Português (nativo)  
+- Inglês (avançado) – TOEIC: *850*  
