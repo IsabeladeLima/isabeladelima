@@ -1,15 +1,14 @@
-## 👋 Olá! Eu sou a Isabela  
+### 👋 Olá! Eu sou a Isabela  
 
-🎓 *Sobre mim:*  
+#🎓 *Sobre mim:*  
 - Atualmente, estou cursando *Análise e Desenvolvimento de Sistemas* na *FATEC de Americana* (2º semestre).  
-- Possuo formação superior incompleta em *Psicologia*, mas me encontrei na área de tecnologia.  
 
-💻 *Área de tecnologia:*     
-- Até o momento, possuo experiência acadêmica com *Word, Excel, VBA, e linguagem C*.  
+#💻 *Área de tecnologia:*     
+- Possuo experiência acadêmica com *Word, Excel, VBA, e linguagem C*.  
 - Atualmente, estou aprimorando meus conhecimentos de *lógica de programação com a linguagem C*.
-- Estou iniciando meus estudos em *Python*.  
-- Busco sempre novos aprendizados e desafios na área.  
+- Estou iniciando meus estudos em *Python*.
+- Banco de Dados: Aprofundando conhecimentos em *SQL* e modelagem de dados. 
 
-🌍 *Idiomas:*  
+#🌍 *Idiomas:*  
 - Português (nativo)  
 - Inglês (avançado) – TOEIC: *850*  
