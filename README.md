@@ -6,7 +6,8 @@
 
 💻 *Área de tecnologia:*     
 - Até o momento, possuo experiência acadêmica com *Word, Excel, VBA, e linguagem C*.  
-- Atualmente, estou aprimorando meus conhecimentos de *lógica de programação com a linguagem C*.  
+- Atualmente, estou aprimorando meus conhecimentos de *lógica de programação com a linguagem C*.
+- Estou iniciando meus estudos em *Python*.  
 - Busco sempre novos aprendizados e desafios na área.  
 
 🌍 *Idiomas:*  
