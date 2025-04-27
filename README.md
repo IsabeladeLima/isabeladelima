@@ -11,4 +11,5 @@
 
 #🌍 *Idiomas:*  
 - Português (nativo)  
-- Inglês (avançado) – TOEIC: *850*  
+- Inglês (avançado) – TOEIC: *850*
+- Francês (básico)
